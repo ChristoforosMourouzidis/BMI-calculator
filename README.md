@@ -1,2 +1,2 @@
 # BMI-calculator
-A simple program that konverts from kgs to lbs and from lbs to kgs 
+A simple program that calculates your bmi
